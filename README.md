@@ -2,13 +2,22 @@
 
 I am a recent graduate with a profound interest in technology and security.
 
+
+
+
 ## Objective
 
 Motivated junior cybersecurity professional with a strong foundation in network security, threat analysis, and risk management. Eager to leverage hands-on experience and knowledge of security best practices to protect organizational assets and contribute to a dynamic security team.
 
+
+
+
 ## Projects and Labs
 
 Here
+
+
+
 
 ## Tools
 
@@ -18,6 +27,9 @@ Here
 <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 And others...
+
+
+
 
 ## Certifications
 <div>
@@ -29,6 +41,9 @@ And others...
 <img src="https://img.shields.io/badge/-eJPT-00BFFF?&style=for-the-badge&logo=EC-Council&logoColor=white" /> (In Progress)
 <img src="https://img.shields.io/badge/-CISSP-FFCC00?&style=for-the-badge&logo=ISC2&logoColor=white" /> (In the Future)
 </div>
+
+
+
 
 ## :clapper:
 Thank you for taking the time to explore my portfolio. I am passionate about cybersecurity and committed to continuous learning and growth in this ever-evolving field. If you have any questions or would like to discuss potential collaborations, please feel free to reach out. I look forward to connecting with you!
